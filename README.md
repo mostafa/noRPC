@@ -11,7 +11,7 @@ There are great pieces of software written by great engineers doing a great job 
 - Secure: you cannot attack nothing, unless you're a dark wizard that can bend space-time and mess with the dark matter.
 
 ## Getting Started
-Sit there and watch. It works out of the box.
+Sit there and watch. It works out of the box. If you want to know more, read this [article](https://mostafa.dev/the-ultimate-rpc-framework-9902bb0d6aed).
 
 ## Build from Source
 No need. Spend your day doing nothing causes its source to be built automagically.
