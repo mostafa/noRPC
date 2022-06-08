@@ -1,7 +1,7 @@
 # noRPC
 A fault-tolerant, protocol-agnostic, dead simple, reliable, interoprable and secure RPC framework
 
-There are great pieces of software written by great engineering doing a great job of interconnecting services. This framework, however, follows the [@kelseyhightower](https://github.com/kelseyhightower)'s [nocode framework](https://github.com/kelseyhightower/nocode). It follows the same architectural and design patterns and it offers lots of features on top of what is already offered by other frameworks:
+There are great pieces of software written by great engineers doing a great job of interconnecting services. This framework, however, follows the [@kelseyhightower](https://github.com/kelseyhightower)'s [nocode framework](https://github.com/kelseyhightower/nocode). It follows the same architectural and design patterns and it offers lots of features on top of what is already offered by other frameworks:
 
 - Fault-tolerant: there is absolutely no fault, either inherent, implicit or explicit.
 - Protocol-agnostic: BRING YOUR OWN PROTOCOL.
